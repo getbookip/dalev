@@ -1,0 +1,38 @@
+{
+  "name": "Dan & Palev",
+  "description": {
+    "en": "Wedding photographers in Zapopan, Mexico. Check our portfolio, prices and discounts. Enjoy the beginning eternally.",
+    "es": "Fotógrafos para boda en Zapopan, México. Revisa nuestro portafolio, precios y descuentos. Revive el comienzo eternamente."
+  },
+  "hero": "https://armces.imgix.net/dalev.jpg",
+  "tagline": {
+    "en": "Enjoy the beginning eternally",
+    "es": "Revivan el comienzo eternamente"
+  },
+  "locale": "es",
+  "locales": ["en", "es"],
+  "currency": "MXN",
+  "phone": "+52 (33) 2753 3617",
+  "email": "hi@dalev.com",
+  "social": {
+    "facebook": "https://www.facebook.com/dalev.mx/",
+    "instagram": "https://www.instagram.com/dalev.mx/",
+    "youtube": "https://www.youtube.com/channel/UCiKZcqCtfippsIzFxG3r6yg",
+    "whatsapp": "+523327533617"
+  },
+  "instagram": [
+    "https://armces.imgix.net/dalev/Weddings/instagram-01.jpg",
+    "https://armces.imgix.net/dalev/Weddings/instagram-02.jpg",
+    "https://armces.imgix.net/dalev/Weddings/instagram-03.jpg",
+    "https://armces.imgix.net/dalev/Weddings/instagram-04.jpg",
+    "https://armces.imgix.net/dalev/Weddings/instagram-05.jpg",
+    "https://armces.imgix.net/dalev/Weddings/instagram-06.jpg"
+  ],
+  "address": {
+    "street": "Calle Parral 386",
+    "neighborhood": "San Juan de Ocotán",
+    "city": "Zapopan",
+    "subdivision": "JAL",
+    "country": "MX"
+  }
+}
